@@ -5,3 +5,6 @@ Install:
 4. pip install win32api
 5. pip install pyautogui
 6. pip install numpy
+
+
+Reference: https://github.com/google/mediapipe.git
